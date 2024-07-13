@@ -1,0 +1,14 @@
+# CCS Project related
+.settings/**
+.jxbrowser.userdata/**
+.launches/**
+.metadata/**
+Debug/**
+Release/**
+targetConfigs/**
+.ccsproject
+.cproject
+.project
+
+# VS code related
+.vscode/**
